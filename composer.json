@@ -1,8 +1,8 @@
 {
     "name": "ywb1995/composer-",
     "description": "test composer",
-    "type": "projecet",
-    "license": "MIT",
+    "type": "project",
+    "license": "mit",
     "authors": [
         {
             "name": "Ywb",
