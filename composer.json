@@ -1,0 +1,16 @@
+{
+    "name": "ywb1995/composer-",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "houdunwang/arr": "v1.0.18"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ywb",
+            "email": "1540601646@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
