@@ -1,0 +1,14 @@
+{
+    "name": "ywb1995/composer",
+    "description": "test composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ywb",
+            "email": "1540601646@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
